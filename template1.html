@@ -1,0 +1,75 @@
+        <div class="bg enable-animate" style="background: #f9c40f;">
+            <div bg-img="{{data.bgImg}}" class="bg-img"></div>
+            <div class="mask" style="opacity: 0.1"></div>
+            <div class="bottom-mask"></div>
+        </div>
+
+        <div class="content wrapper">
+            <div class="top-section clearfix ">
+                    <div class="clearfix ">
+                    <div class="title-section-wrapper left">
+                        <table class="title-section left">
+                            <tbody>
+                                <tr class="top-column">
+                                    <td colspan="2">
+                                        <div class="title clearfix">
+                                            <div class="top-title">{{data.year}}</div>
+                                            <div class="bottom-title">{{data.type}}</div>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="title-content-wrapper">
+                                        <div class="sub-title-wrapper clearfix">
+                                            <div class="sub-title">
+                                                <h2 class="min">
+                                                    <a target="_blank" href="{{movie[index].Website}}">{{data.name}}</a>
+                                                </h2>
+                                                <h3 class="min">
+                                                    <a target="_blank" href="{{movie[index].Website}}">{{data.title}}</a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                        <div class="meta">
+                                                <span class="rank-section">
+                                                    <span class="stars star{{data.star}}"></span> 
+                                                    <span class="rank" ng-hide="!movie[index].imdbRating">
+                                                        <img border="0" src="http://ia.media-imdb.com/images/G/01/imdb/images/plugins/imdb_46x22-2264473254._CB306318085_.png" width="24" height="14">  
+                                                        {{movie[index].imdbRating}} 
+                                                        <span ng-hide="movie[index].tomatoMeter=='N/A'"> 
+	                                                        <img border="0" src="http://d3biamo577v4eu.cloudfront.net/static/images/icons/fresh-16.png" width="16" height="16">  
+	                                                        {{movie[index].tomatoMeter}}%
+                                                        </span> 
+                                                    </span>
+                                                </span>
+
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    </div>
+                    <div class="description-section ">
+                    </div>
+            </div>
+            <div class="bottom-section">
+                <div class="subjects-section">
+                    <div class="subjects-wrapper clearfix">
+                        <a target="_blank" href="{{value.Website}}" class="subject " data-title="{{value.Title}}" ng-repeat="(key,value) in list[index] | orderBy:'-imdbRating'">
+                            <span class="num">{{key+1}}</span>
+                            <div class="img"> 
+                                <img src="{{value.Poster}}" alt="{{value.Title}}">
+                            </div>
+                            <div class="cover">
+                                <div class="cover-inner">
+                                    <p>{{value.Title}}</p>
+                                        <p>{{value.imdbRating}}</p>
+                                </div>
+                            </div>
+                        </a>
+                  </div>
+                </div>
+                
+            </div>
+        </div>

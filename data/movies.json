@@ -1,0 +1,173 @@
+[
+    {
+        "year": "2015個人評價最高的",
+        "type": "科幻片",
+        "name": "絕地救援",
+        "title": "The Martian",
+        "star": "45",
+        "bgImg": "http://images2.alphacoders.com/651/651380.jpg",
+        "list": ["The Martian","Ex Machina","The Force Awakens","Project Almanac","Tomorrowland","Chappie"]
+    },
+    {
+        "year": "2015個人評價最高的",
+        "type": "特務片",
+        "name": "金牌特務",
+        "title": "Kingsman: The Secret Service",
+        "star": "45",
+        "bgImg": "http://images5.alphacoders.com/605/605957.jpg",
+        "list": ["Kingsman","The Man From U.N.C.L.E.","Mission Impossible: Rogue Nation","Spy","Spectre"]
+    },
+    {
+        "year": "2015個人評價最高的",
+        "type": "經典重開機片",
+        "name": "瘋狂麥斯: 憤怒道",
+        "title": "Mad Max: Fury",
+        "star": "45",
+        "bgImg": "http://images8.alphacoders.com/635/635124.jpg",
+        "list": ["Mad Max: Fury","The Force Awakens","Terminator Genisys","Jurassic World"]
+    },
+    {
+        "year": "2015個人評價最高的",
+        "type": "動畫片",
+        "name": "腦筋急轉彎",
+        "title": "Inside Out",
+        "star": "45",
+        "bgImg": "http://images3.alphacoders.com/601/601040.jpg",
+        "list": ["Inside Out","The Little Prince","Big Hero"]
+    },
+    {
+        "year": "2015個人評價最高的",
+        "type": "愛情片",
+        "name": "我的少女時代",
+        "title": "Our Times",
+        "star": "45",
+        "bgImg": "http://l.yimg.com/os/publish-images/movies/2015-08-21/2cfb0520-47b1-11e5-a772-7b57b55d918e_-08-.jpg",
+        "list": ["Our Times"]
+    },    
+    {
+        "year": "2015個人評價最高的",
+        "type": "動作片",
+        "name": "玩命關頭7",
+        "title": "Fast & Furious 7",
+        "star": "40",
+        "bgImg": "http://images6.alphacoders.com/589/589040.jpg",
+        "list": ["Fast & Furious 7","Mission Impossible: Rogue Nation","The Scorch Trials","Taken 3"]
+    },
+    {
+        "year": "2015個人評價最高的",
+        "type": "災難片",
+        "name": "聖母峰",
+        "title": "Everest",
+        "star": "40",
+        "bgImg": "http://images5.alphacoders.com/635/635970.jpg",
+        "list": ["Everest","San Andreas"]
+    },
+    {
+        "year": "2015個人評價最高的",
+        "type": "超級英雄片",
+        "name": "蟻人",
+        "title": "Ant-Man",
+        "star": "40",
+        "bgImg": "http://images3.alphacoders.com/606/606176.jpg",
+        "list": ["Ant-Man","Age Of Ultron"]
+    },    
+    {
+        "year": "2015個人評價最高的",
+        "type": "傳記片",
+        "name": "衝出康普頓",
+        "title": "Straight Outta Compton",
+        "star": "40",
+        "bgImg": "http://media2.fdncms.com/chicago/imager/u/original/18699438/straight_outta_compton.jpg",
+        "list": ["Straight Outta Compton","Bridge of Spies","The Imitation Game","Ip Man 3","American Sniper"]
+    },    
+    {
+        "year": "2015個人評價最高的",
+        "type": "犯罪片",
+        "name": "怒火邊界",
+        "title": "Sicario",
+        "star": "40",
+        "bgImg": "http://www.monkeysfightingrobots.com/wp-content/uploads/2015/09/sicario-movie-poster-wide.jpg",
+        "list": ["Sicario","Crimson Peak","Dark Places"]
+    },    
+    {
+        "year": "2015個人評價最高的",
+        "type": "殭屍片",
+        "name": "殭屍教戰守則",
+        "title": "Scouts Guide to the Zombie Apocalypse",
+        "star": "35",
+        "bgImg": "https://image.tmdb.org/t/p/original/i9q16AcV67QSTD0PCT91vf4ywfd.jpg",
+        "list": ["Scouts Guide to the Zombie Apocalypse"]
+    },    
+    {
+        "year": "2015個人評價最高的",
+        "type": "喜劇片",
+        "name": "万万没想到：西游篇",
+        "title": "Surprise",
+        "star": "45",
+        "bgImg": "http://img2.ali213.net/picfile/News/2015/12/20/2015122021752768.jpg",
+        "list": ["Surprise","The Intern","Scouts Guide to the Zombie Apocalypse","Pitch Perfect 2","Ted 2"]
+    },
+    {
+        "year": "2015個人評價最高的",
+        "type": "小說改編",
+        "name": "絕地救援",
+        "title": "The Martian",
+        "star": "45",
+        "bgImg": "http://images8.alphacoders.com/651/651379.jpg",
+        "list": ["The Martian","Bridge of Spies","The Hunger Games: Mockingjay - Part 1","The Hunger Games: Mockingjay - Part 2","Victor Frankenstein","The Scorch Trials","Mr. Holmes","Dark Places"]
+    },
+    {
+        "year": "2015個人評價最高的",
+        "type": "童話改編",
+        "name": "仙履奇緣",
+        "title": "Cinderella",
+        "star": "40",
+        "bgImg": "http://images4.alphacoders.com/566/566808.jpg",
+        "list": ["Cinderella","Into the Woods"]
+    },    
+    {
+        "year": "2015個人評價的",
+        "type": "最佳服裝造型",
+        "name": "腥紅山莊",
+        "title": "Crimson Peak",
+        "star": "35",
+        "bgImg": "http://images5.alphacoders.com/614/614162.jpg",
+        "list": ["Crimson Peak","Spectre"]
+    },
+    {
+        "year": "2015個人評價的",
+        "type": "最佳電影原聲",
+        "name": "小王子",
+        "title": "The Little Prince",
+        "star": "45",
+        "bgImg": "http://images6.alphacoders.com/663/663833.jpg",
+        "list": ["The Little Prince","Into the Woods","Pitch Perfect 2","Whiplash","Straight Outta Compton"] 
+    },    
+    {
+        "year": "2015個人評價的",
+        "type": "最佳電影道具",
+        "name": "侏羅纪世界",
+        "title": "Jurassic World",
+        "star": "40",
+        "bgImg": "http://cdn.yournextshoes.com/wp-content/uploads/2015/06/Jurassic-World-heels-FB.jpg",
+        "list": ["Jurassic World"]
+    },
+    {
+        "year": "2015個人新關注的",
+        "type": "女演員",
+        "name": "艾莉西亞·薇坎德",
+        "title": "Alicia Amanda Vikander",
+        "star": "45",
+        "bgImg": "http://hdcelebwallpapers.com/wp-content/uploads/2015/04/new-alicia-vikander-2015-wallpaper.jpg",
+        "list": ["Ex Machina","The Man From U.N.C.L.E."]
+    },
+    {
+        "year": "2015個人新關注的",
+        "type": "男演員",
+        "name": "尼可拉斯·霍特",
+        "title": "Nicholas Caradoc Hoult",
+        "star": "40",
+        "bgImg": "http://desktopbackgroundshq.com/backgrounds/nicholas-hoult-celebrity-backgrounds-29040.jpg",
+        "list": ["Mad Max: Fury","Dark Places"]
+    }
+]

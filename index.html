@@ -1,6 +1,6 @@
 <!doctype html>
 
-<html lang="en">
+<html lang="en" ng-app="moviesApp">
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,12 +13,14 @@
     <meta name="activity_id" content="1" />
     <meta property="og:site_name" content="" />
     <meta property="og:title" content="玉玲瓏看電影 2015年度推薦" />
-        <meta property="og:description" content="回顧過去一年電影生活。" />
+        <meta property="og:description" content="回顧過去一年的電影生活。" />
         <meta property="og:image" content="http://img6.douban.com/view/activity_page/raw/public/p507.jpg" />
     <script type="text/javascript" src="js/do.js" data-cfg-autoload="false"></script>
+    <script src="http://angular.github.io/angular-phonecat/bower_components/angular/angular.js"></script>
+    <script src="js/controllers.js"></script>
 
 </head>
-<body id="loading">
+<body id="loading" ng-controller="listCtrl">
         <div class="msk">
             <div class="wp">
                 <h1>玉玲瓏2015電影心得 載入中...</h1>
@@ -40,6 +42,14 @@
 
         </div>
 
+        <div class="section top-10-widget top-5-widget" data-anchor="{{index+1}}" ng-repeat="(index,data) in movies" >
+            <div ng-include="templates[0].url"></div>
+        </div>    
+
+        <div class="section dialogue-widget" data-anchor="{{index+1}}" ng-repeat="(index,data) in quotes">
+            <div ng-include="templates[1].url"></div>
+        </div>
+        
         <div id="back-to-top"></div>
 
         <script type="text/javascript">
