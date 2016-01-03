@@ -59,7 +59,7 @@
                         <a target="_blank" href="{{value.Website}}" class="subject " data-title="{{value.Title}}" ng-repeat="(key,value) in list[index] | orderBy:'-imdbRating'">
                             <span class="num">{{key+1}}</span>
                             <div class="img"> 
-                                <img src="{{value.Poster}}" alt="{{value.Title}}">
+                                <img ng-src="{{value.Poster}}" alt="{{value.Title}}">
                             </div>
                             <div class="cover">
                                 <div class="cover-inner">

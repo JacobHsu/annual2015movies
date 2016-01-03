@@ -17,8 +17,13 @@ moviesApp.controller('listCtrl', function($scope, $http) {
   	}
 
   	var checkData = function(oData) {
-		if(oData.Poster =="N/A") { //Our Times (2015)
-		 	oData.Poster = "http://ia.media-imdb.com/images/M/MV5BNjYzOTVkMjQtZTY1My00MzJlLWE5NmQtZWE5NGY4NjZkMmQ0XkEyXkFqcGdeQXVyNjQ1OTAwMzc@._V1_SY317_CR7,0,214,317_AL_.jpg";
+		if(oData.Poster == "N/A") { //Our Times (2015)
+		 	oData.Poster = "pics/MV5BNjYzOTVkMjQtZTY1My00MzJlLWE5NmQtZWE5NGY4NjZkMmQ0XkEyXkFqcGdeQXVyNjQ1OTAwMzc@._V1_SY317_CR7,0,214,317_AL_.jpg";
+		} else if(oData.Poster == undefined){
+			oData.Poster = "";
+		} else {
+			var filename = oData.Poster.split("/").pop();
+			oData.Poster = "pics/"+ filename;
 		}
 		if(oData.Title =="Surprise") {
 			oData.Poster = "http://img03.sogoucdn.com/app/a/07/6441d3997bf50ed2059d2099cd8f286d";
