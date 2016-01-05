@@ -2,7 +2,7 @@
     {
         "year": "年度台詞",
         "quote":"有許多關於過往種種的故事。",
-        "quote2":"Rey: There are stories about what happened. Han Solo: It's true. All of it. The Dark Side, the Jedi. They're real. ",
+        "quote2":"Rey: There are stories about what happened.",
         "name": "星際大戰：原力覺醒 (2015)",
         "title": "The Force Awakens",
         "bgImg": "http://images3.alphacoders.com/669/669091.jpg",
@@ -10,12 +10,21 @@
     },
     {
         "year": "年度台詞",
-        "quote":"汝今劍術已成，唯不能斬斷人倫之情。",
-        "quote2":"",
-        "name": "刺客聶隱娘(2015)",
-        "title": "The Assassin",
-        "bgImg": "http://www.yoka.com/dna/pics/media/ba15ae31/3/d357ddbdc5ed59dedd.jpg",
-        "list": ["The Assassin"]
+        "quote":"是真的，全部都是。黑暗面，絕地武士，都是真的。",
+        "quote2":"Han Solo: It's true. All of it. The Dark Side, the Jedi. They're real. ",
+        "name": "星際大戰：原力覺醒 (2015)",
+        "title": "The Force Awakens",
+        "bgImg": "http://images7.alphacoders.com/669/669102.jpg",
+        "list": ["The Force Awakens"]
+    },
+    {
+        "year": "年度台詞",
+        "quote":"血袋，見證我吧！我就是那個以最璀璨奪目之姿，直奔英靈殿的人！",
+        "quote2":"Witness me...Blood Bag! I live, I die, I live again!",
+        "name": "瘋狂麥斯: 憤怒道 (2015)",
+        "title": "Mad Max: Fury",
+        "bgImg": "http://cdn.idigitaltimes.com/sites/idigitaltimes.com/files/2015/05/20/mad-max-fury-road-jumping-car-wallpaper.jpg",
+        "list": ["Mad Max: Fury"]
     },
     {
         "year": "年度台詞",
@@ -37,12 +46,30 @@
     },
     {
         "year": "年度台詞",
-        "quote":"血袋，見證我吧！我就是那個以最璀璨奪目之姿，直奔英靈殿的人！",
-        "quote2":"Witness me...Blood Bag! I live, I die, I live again!",
-        "name": "瘋狂麥斯: 憤怒道 (2015)",
-        "title": "Mad Max: Fury",
-        "bgImg": "http://cdn.idigitaltimes.com/sites/idigitaltimes.com/files/2015/05/20/mad-max-fury-road-jumping-car-wallpaper.jpg",
-        "list": ["Mad Max: Fury"]
+        "quote":"如果我不能通過你的測試的話會怎樣?",
+        "quote2":"What will happen to me if I fail your test?",
+        "name": "機械姬 (2015)",
+        "title": "Ex Machina",
+        "bgImg": "http://images4.alphacoders.com/616/616248.jpg",
+        "list": ["Ex Machina"]
+    },
+    {
+        "year": "年度台詞",
+        "quote":"讓人意料之外的人會成就讓人意料之外的事。",
+        "quote2":"Sometimes it is the people no one imagines anything of who do the things that no one can imagine.",
+        "name": "模仿遊戲 (2015)",
+        "title": "The Imitation Game",
+        "bgImg": "http://images2.alphacoders.com/605/605925.jpg",
+        "list": ["TThe Imitation Game"]
+    },
+    {
+        "year": "年度台詞",
+        "quote":"擔心有幫助嗎?",
+        "quote2":"Would it help?",
+        "name": "間諜橋 (2015)",
+        "title": "Bridge of Spies",
+        "bgImg": "http://images6.alphacoders.com/652/652964.jpg",
+        "list": ["Bridge of Spies"]
     },
     {
         "year": "年度台詞",
@@ -55,6 +82,15 @@
     },
     {
         "year": "年度台詞",
+        "quote":"非常時期要用非常手段。",
+        "quote2":"Desperate times, desperate measures.",
+        "name": "不可能的任務：失控國度 (2015)",
+        "title": "Mission Impossible: Rogue Nation",
+        "bgImg": "http://images3.alphacoders.com/614/614611.jpg",
+        "list": ["Mission Impossible: Rogue Nation"]
+    },
+    {
+        "year": "年度台詞",
         "quote":"你可以坐以待斃，或是努力求生。",
         "quote2":"At some point, everything's going to go south on you…you can either accept , or you can get to work.",
         "name": "絕地救援 (2015)",
@@ -64,12 +100,12 @@
     },
     {
         "year": "年度台詞",
-        "quote":"擔心有幫助嗎?",
-        "quote2":"Would it help?",
-        "name": "間諜橋 (2015)",
-        "title": "Bridge of Spies",
-        "bgImg": "http://images6.alphacoders.com/652/652964.jpg",
-        "list": ["Bridge of Spies"]
+        "quote":"汝今劍術已成，唯不能斬斷人倫之情。",
+        "quote2":"",
+        "name": "刺客聶隱娘(2015)",
+        "title": "The Assassin",
+        "bgImg": "http://www.yoka.com/dna/pics/media/ba15ae31/3/d357ddbdc5ed59dedd.jpg",
+        "list": ["The Assassin"]
     },
     {
         "year": "年度台詞",
